@@ -32,6 +32,15 @@ docker-compose up -d
 
 ---
 
+Внутри директории infra создаем дашборд, для отображения сводной информации 
+по инфраструктуре (CPU, RAM, Network, etc.)
 
+![s3](https://github.com/user-attachments/assets/7358bd2d-d98f-43c8-bfc0-1c8edf4e1caa)
 
+---
+
+Внутри директории app создаем дашборд, для отображения сводной информации 
+о CMS (доступность компонентов, время ответа, etc.)
+
+![s4](https://github.com/user-attachments/assets/33251b84-9211-4102-9661-ec2518f4dba4)
 
