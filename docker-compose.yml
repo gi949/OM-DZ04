@@ -35,10 +35,6 @@ services:
       - prometheus
     ports:
       - 3000:3000
-#    volumes:
-#      - ./grafana:/var/lib/grafana
-#      - ./grafana/provisioning/:/etc/grafana/provisioning/
-#      - ./grafana/providers.yaml:/etc/grafana/providers.yaml
     container_name: grafana
     hostname: grafana
     restart: unless-stopped
