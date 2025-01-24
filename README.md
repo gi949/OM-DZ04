@@ -8,7 +8,7 @@ nginx, php-fpm, database (MySQL)
 
 ---
 
-Ранне был развернут сервер Prometheus с помощью docker-compose. 
+Раннее был развернут сервер Prometheus с помощью docker-compose. 
 
 Добавляем в docker-compose.yml конфигурацию для запуска сервера Grafana.
 
